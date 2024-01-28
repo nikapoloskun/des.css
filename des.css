@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">@import url('https://fonts.googleapis.com/css2?family=Manrope&amp;display=swap');
 
 /*
 font-family: 'Manrope', sans-serif;
@@ -188,7 +188,7 @@ div.right-menu-text a {
     font-size: 0;
 }
 div.right-menu-text a:before {
-    content: 'изучить >>';
+    content: 'изучить &gt;&gt;';
     font-size: 13px;
 }
 
@@ -337,7 +337,7 @@ textarea {
     padding: 10px;
 }
 
-.left-menu>div {
+.left-menu&gt;div {
     margin-bottom: 30px;
     border-radius: 10px;
     overflow: hidden;
@@ -349,7 +349,7 @@ textarea {
 
 
 
-.left-menu>div, .post-content, .comment-row {
+.left-menu&gt;div, .post-content, .comment-row {
     box-shadow: 0 4px 7px #0000001f;
 }
 
@@ -390,7 +390,7 @@ nav.navbar {
 .comment-text,.post-text {
     font-size: 14px !important;
 }
-.fas, .far, .tag_bar > * {
+.fas, .far, .tag_bar &gt; * {
     font-size: 20px;
     padding: 2px;
 }
@@ -406,7 +406,7 @@ nav.navbar {
 .datebg {
     font-size: 16px;
 }
-.fas, .far, .tag_bar > * {
+.fas, .far, .tag_bar &gt; * {
     font-size: 16px;
 }
 span.comments_count a {
@@ -517,7 +517,7 @@ span.readertime {
 .mobile_open_menu h3.left-menu-text {
     margin: 0px;
 }
-.left-menu > div.mobile_open_menu > h3 {
+.left-menu &gt; div.mobile_open_menu &gt; h3 {
     font-weight: 100;
 }
 
@@ -753,3 +753,4 @@ label.menu__btn {
 .post-content {
     padding: 10px;
 }
+</pre><deepl-input-controller></deepl-input-controller></body></html>
